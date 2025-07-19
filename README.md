@@ -1,10 +1,12 @@
 # FinXpert: Escape the Matrix – Start Investing Smart
 
-> Simplified financial planning for India's working and middle class
+> Project is still under progress
 
 ---
 
 ## 🚀 Overview
+
+> Simplified financial planning for India's working and middle class
 
 **FinXpert** is a lightweight, AI-backed financial planning platform built for India's middle-income earners who want to break free from the paycheck-to-paycheck trap. Designed with simplicity in mind, it offers personalized financial insights, budgeting tools, and investment guidance — everything a first-time investor needs to begin their wealth journey with confidence. No voice-first gimmicks, just clear, actionable support.
 
